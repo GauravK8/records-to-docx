@@ -13,22 +13,22 @@ Steps
 2. [ ] Activate python virtualenv
 3. [ ] Make changes in input file or template file and Run script
 
-### Create python virtualenv using below command
+### Create python virtualenv
 ```sh
 python3 -m venv env
 ```
 
-### Activate pyton virtualenv using below command
+### Activate pyton virtualenv
 ```sh
 source env/bin/activate
 ```
 
-### Install a required python library
+### Install python lib
 ```sh
 pip install docxtpl
 ```
 
-### Run script using below command
+### Run script
 where
 -k is path to variables text file
 -t is path to docx document template file

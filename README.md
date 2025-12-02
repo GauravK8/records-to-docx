@@ -1,6 +1,6 @@
-# Docs demo
+## Docs demo
 
-## This python script is used to read a txt file containing variables names, a docx file as a template and it will generate an output directory containing output docx documents.
+### This python script is used to read a txt file containing variables names, a docx file as a template and it will generate an output directory containing output docx documents.
 
 ### Prequisites
 Install python3 and python virtual-env.

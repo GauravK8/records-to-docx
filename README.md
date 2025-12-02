@@ -18,14 +18,14 @@ Steps
 python3 -m venv env
 ```
 
-### Install a required python library
-```sh
-pip install docxtpl
-```
-
 ### Activate pyton virtualenv using below command
 ```sh
 source env/bin/activate
+```
+
+### Install a required python library
+```sh
+pip install docxtpl
 ```
 
 ### Run script using below command
